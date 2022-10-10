@@ -1,0 +1,9 @@
+{
+    "idf.adapterTargetName": "esp32",
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "aws_iot_mqtt_client_interface.h": "c",
+        "device_drivers.h": "c",
+        "freertos.h": "c"
+    }
+}
